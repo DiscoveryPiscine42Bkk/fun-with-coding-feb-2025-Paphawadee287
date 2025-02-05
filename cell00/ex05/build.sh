@@ -7,4 +7,3 @@ else
 		fi
 	done
 fi
-chmod +x build.sh
